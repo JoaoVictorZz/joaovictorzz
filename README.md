@@ -21,7 +21,7 @@
 	<a href="https://open.spotify.com/playlist/65ShbvHV6q2Uy37YaKeou6?si=3d09ba8fd01944b1">
 		<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 	</a>
-	<a href="malito: victorbusiness207@gmail.com">
+	<a href="malito:victorbusiness207@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-9b3b8b20a/">
